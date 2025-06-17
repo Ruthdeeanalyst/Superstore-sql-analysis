@@ -24,7 +24,7 @@ To analyze Superstore's sales data using SQL for insights into:
 - Region-wise Sales and Profits
   
 You can view the full SQL queries used in this analysis here:
-[View SQL Queries](Superstore-sql-analysis/`sqlproject1`.sql)
+[View SQL Queries](Superstore-sql-analysis/sqlproject1.sql)
 
 ## 📈 Insights Summary
 - The West region consistently led in total profit.
